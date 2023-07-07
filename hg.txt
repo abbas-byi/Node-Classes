@@ -1,0 +1,3 @@
+Weather APi
+https://weatherstack.com/quickstart
+6c1a1644dc77bf8462f32e76c935b04d
